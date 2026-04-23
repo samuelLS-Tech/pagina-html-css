@@ -1,0 +1,18 @@
+body {
+    display:contents;
+    text-align:center;
+    background-color:#ffffff;
+}
+h1 { 
+    color:#4180ab;
+    border:solid;
+    border-color:#8ab3cf;
+    margin: 50px;
+
+}
+ul {
+    color:#191013;
+    border: dashed;
+    border-color: #8ab3cf;
+    padding: 1%;
+}
